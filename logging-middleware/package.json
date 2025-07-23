@@ -1,0 +1,10 @@
+{
+  "name": "simple-logger",
+  "version": "1.0.0",
+  "description": "Basic logging middleware",
+  "main": "logger.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
